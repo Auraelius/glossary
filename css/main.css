@@ -1,0 +1,14 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+textarea{
+  width:40em;
+  height: 5em;
+}
+
+#addButton {
+  background-color:lightgreen;
+}
+#clearButton {
+  background-color:lightpink;
+}
